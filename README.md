@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning how to code and general data science information
 - 💞️ I’m looking to collaborate on learning how to code and create data plots and graphs
 - 📫 How to reach me, please contact me through my email. ashleighdixon1998@gmail.com
+- I'm interested in meeting new people who are also learning how to code
 
 <!---
 vadixon98/vadixon98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
