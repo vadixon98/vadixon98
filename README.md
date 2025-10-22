@@ -67,5 +67,3 @@ I’m passionate about connecting **bioinformatics** with **plant systems biolog
 💼 **LinkedIn:** [linkedin.com/in/VaDixon](https://www.linkedin.com/in/VaDixon)
 
 ---
-
-✨ _“Science is the poetry of reality.” — Richard Dawkins_
