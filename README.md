@@ -7,15 +7,6 @@ My work connects **wet-lab discovery** and **in-silico analysis** to accelerate 
 
 ---
 
-## 🚀 Featured Projects
-
-| 🌟 **Project** | 🧠 **Description** | 🧰 **Tools & Languages** |
-|:---------------|:------------------|:--------------------------|
-| **🧬 Best Reciprocal Hit Finder for Genes** | Identifies reciprocal gene orthologs across species using dynamic programming and BLOSUM62 substitution matrices. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Biopython](https://img.shields.io/badge/Biopython-009688?logo=python&logoColor=white) ![BLAST](https://img.shields.io/badge/BLAST-4A90E2?logo=ncbi&logoColor=white) |
-| **🧾 Global & Local Alignment Comparisons** | R scripts for global and local sequence alignments with graphical scoring and alignment visualization. | ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) ![tidyverse](https://img.shields.io/badge/tidyverse-1A162D?logo=rstudio&logoColor=white) |
-| **🌳 Phylogenetic Tree Builder** | Automated workflow to construct and visualize phylogenetic trees from aligned sequences. | ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) ![MAFFT](https://img.shields.io/badge/MAFFT-6C63FF) ![MrBayes](https://img.shields.io/badge/MrBayes-FF6B6B) |
-| **🧪 CYP74A Phylogenetic Analysis Script** | Automates retrieval, alignment, and analysis of *Solanum* CYP74A gene family sequences. | ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) ![ggplot2](https://img.shields.io/badge/ggplot2-1E88E5?logo=rstudio&logoColor=white) ![NCBI](https://img.shields.io/badge/NCBI_API-0B3D91) |
-
 ---
 
 ## ⚙️ Technical Expertise
