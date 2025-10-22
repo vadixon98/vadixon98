@@ -34,17 +34,11 @@ My work connects **wet-lab discovery** and **in-silico analysis** to accelerate 
 
 ### 🧠 **Workflow & Reproducibility**
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white) ![Conda](https://img.shields.io/badge/Conda-44A833?logo=anaconda&logoColor=white)  
-`Galaxy` · `GitDesktop` · `Nextflow` · `Snakemake` · `ETL pipelines`
+`Galaxy` · `GitDesktop` · `ETL pipelines`
 
 ### 📊 **Data Visualization**
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white) ![ggplot2](https://img.shields.io/badge/ggplot2-1E88E5?logo=rstudio&logoColor=white) ![RMarkdown](https://img.shields.io/badge/R_Markdown-6A1B9A) ![Vercel](https://img.shields.io/badge/Vercel_v0-000000?logo=vercel&logoColor=white)  
 Interactive dashboards · R Markdown reports · Data-driven storytelling
-
-### 🧮 **Data Processing**
-`R ETLs` · `tidyverse` · `Bioconductor` · `Data cleaning & transformation`
-
-### 🧾 **Electronic Lab Notebooks (ELNs)**
-![Benchling](https://img.shields.io/badge/Benchling-1F77B4?logoColor=white) ![Smartsheet](https://img.shields.io/badge/Smartsheet-0071C5?logo=smartsheet&logoColor=white) ![CDD](https://img.shields.io/badge/Collaborative_Drug_Discovery-4E342E)
 
 ---
 
