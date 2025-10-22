@@ -2,8 +2,8 @@
 
 **🔬 Cellular Biologist | 💻 Bioinformatics & Computational Biology | 🌾 Agricultural Biotech**
 
-I bridge **molecular biology** and **bioinformatics**, combining hands-on lab experience with **R/Python-based data analysis** and **reproducible computational workflows**.  
-My work connects **wet-lab discovery** and **in-silico analysis** to accelerate innovation in **plant science, genomics, and sustainable biotechnology**.
+I bridge molecular biology and bioinformatics, combining hands-on lab experience with R/Python-based data analysis and reproducible computational workflows. 
+My work connects wet-lab discovery and in-silico analysis to accelerate innovation in plant science, genomics, and sustainable biotechnology.
 
 ---
 
@@ -21,17 +21,16 @@ My work connects **wet-lab discovery** and **in-silico analysis** to accelerate 
 
 ## 🌱 Current Focus
 
-- 🧩 Integrating **R** and **Python** workflows for end-to-end genome and transcriptome analysis  
-- 🌾 Building **reproducible pipelines** for agricultural and environmental genomics  
-- 🤖 Expanding **automation** and **visualization** tools for scalable, data-driven research  
-- 🧠 Applying **AI-assisted methods** to streamline bioinformatics analysis and improve reproducibility
+- 🧩 Integrating R and Python workflows for end-to-end genome and transcriptome analysis  
+- 🌾 Building reproducible pipelines for agricultural and environmental genomics  
+- 🤖 Expanding automation and visualization tools for scalable, data-driven research  
+- 🧠 Applying AI-assisted methods to streamline bioinformatics analysis and improve reproducibility
 
 ---
 
 ## 💡 About Me
 
-Outside of coding and lab work, I enjoy **rock climbing**, **yoga**, and **reading**.  
-I’m passionate about connecting **bioinformatics** with **plant systems biology** to drive **sustainable agricultural biotechnology**.
+Outside of coding and lab work, I enjoy rock climbing, yoga, and reading. I’m passionate about connecting bioinformatics with plant systems biology to drive sustainable agricultural biotechnology.
 
 📫 **Email:** [ashleighdixon1998@gmail.com](mailto:ashleighdixon1998@gmail.com)  
 🌐 **GitHub:** [github.com/vadixon98](https://github.com/vadixon98)  
