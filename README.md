@@ -7,8 +7,6 @@ My work connects **wet-lab discovery** and **in-silico analysis** to accelerate 
 
 ---
 
----
-
 ## ⚙️ Technical Expertise
 
 | 🧩 **Category** | 🧠 **Core Skills** | 🧰 **Tools & Platforms** |
