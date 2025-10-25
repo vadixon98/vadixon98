@@ -3,7 +3,7 @@
 **🔬 Cellular Biologist | 💻 Bioinformatics & Computational Biology | 🌾 Agricultural Biotech**
 
 I bridge molecular biology and bioinformatics, combining hands-on lab experience with R/Python-based data analysis and reproducible computational workflows. 
-My work connects wet-lab discovery and in-silico analysis to accelerate innovation in plant science, genomics, and sustainable biotechnology.
+My work connects wet-lab discovery and in-silico analysis to accelerate innovation in plant science, genomics, and sustainable AgBiotech.
 
 ---
 
