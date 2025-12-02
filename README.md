@@ -2,6 +2,15 @@
 
 **🔬 Cellular Biologist | 💻 Bioinformatics & Computational Biology | 🌾 Agricultural Biotech**
 
+## 💼 Current Role
+
+**Trait Sciences, Terrana Biosciences**  
+*December 2025 – Present*
+
+- Focusing on sequence optimization for RNA cargo loads in RNA Viroids
+- Developing and analyzing in vivo and in vitro trait bioassays
+- Passionate about computational genomics, synthetic biology, and advancing trait science through technology
+
 I bridge molecular biology and bioinformatics, combining hands-on lab experience with R/Python-based data analysis and reproducible computational workflows. 
 My work connects wet-lab discovery and in-silico analysis to accelerate innovation in plant science, genomics, and sustainable AgBiotech.
 
