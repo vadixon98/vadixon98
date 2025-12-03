@@ -7,7 +7,7 @@
 **Trait Sciences, Terrana Biosciences**  
 *December 2025 – Present*
 
-- Focusing on sequence optimization for RNA cargo loads in RNA Viroids
+- Focusing on sequence optimization within RNA viroids
 - Developing and analyzing in vivo and in vitro trait bioassays
 - Passionate about computational genomics, synthetic biology, and advancing trait science through technology
 
