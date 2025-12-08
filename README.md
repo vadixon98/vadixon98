@@ -2,6 +2,17 @@
 
 **🔬 Cellular Biologist | 💻 Bioinformatics & Computational Biology | 🌾 Agricultural Biotech**
 
+## 📑 Table of Contents
+
+- [Current Role](#-current-role)
+- [Technical Expertise](#️-technical-expertise)
+- [Technologies](#-technologies)
+- [Current Focus](#-current-focus)
+- [GitHub Stats](#-github-stats)
+- [About Me](#-about-me)
+
+---
+
 ## 💼 Current Role
 
 **Trait Sciences, Terrana Biosciences**  
@@ -29,12 +40,52 @@ My work connects wet-lab discovery and in-silico analysis to accelerate innovati
 
 ---
 
+## 🛠️ Technologies
+
+**Languages & Frameworks:**
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
+
+**Bioinformatics Tools:**
+![BLAST](https://img.shields.io/badge/BLAST-4A90E2)
+![Galaxy](https://img.shields.io/badge/Galaxy-1A237E?logo=galaxyproject&logoColor=white)
+![Ensembl](https://img.shields.io/badge/Ensembl_Plants-673AB7)
+![BioPython](https://img.shields.io/badge/BioPython-3776AB?logo=python&logoColor=white)
+
+**Data Analysis & Visualization:**
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?logo=rstudio&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)
+![ggplot2](https://img.shields.io/badge/ggplot2-1E88E5?logo=rstudio&logoColor=white)
+
+**Workflow & Version Control:**
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Conda](https://img.shields.io/badge/Conda-44A833?logo=anaconda&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+---
+
 ## 🌱 Current Focus
 
-- 🧩 Integrating R and Python workflows for end-to-end genome and transcriptome analysis  
-- 🌾 Building reproducible pipelines for agricultural and environmental genomics  
-- 🤖 Expanding automation and visualization tools for scalable, data-driven research  
-- 🧠 Applying AI-assisted methods to streamline bioinformatics analysis and improve reproducibility
+- 🧩 **Integrating R and Python workflows** for end-to-end genome and transcriptome analysis  
+  → *[Explore my bioinformatics pipelines](https://github.com/vadixon98)*
+- 🌾 **Building reproducible pipelines** for agricultural and environmental genomics  
+  → *[View AOS phylogeny analysis](https://github.com/vadixon98)*
+- 🤖 **Expanding automation and visualization tools** for scalable, data-driven research  
+  → *[Check out enzyme variant analysis tools](https://github.com/vadixon98)*
+- 🧠 **Applying AI-assisted methods** to streamline bioinformatics analysis and improve reproducibility  
+  → *[See my latest projects](https://github.com/vadixon98)*
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vadixon98&show_icons=true&theme=default&hide_border=true&bg_color=fff&title_color=2E7D32&icon_color=2E7D32)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vadixon98&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=2E7D32)
+
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=vadixon98&theme=default&hide_border=true&background=fff&ring=2E7D32&fire=2E7D32&currStreakLabel=2E7D32)
 
 ---
 
