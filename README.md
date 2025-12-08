@@ -2,15 +2,6 @@
 
 **🔬 Cellular Biologist | 💻 Bioinformatics & Computational Biology | 🌾 Agricultural Biotech**
 
-## 📑 Table of Contents
-
-- [Current Role](#-current-role)
-- [Technical Expertise](#️-technical-expertise)
-- [Current Focus](#-current-focus)
-- [About Me](#-about-me)
-
----
-
 ## 💼 Current Role
 
 **Trait Sciences, Terrana Biosciences**  
