@@ -6,7 +6,6 @@
 
 - [Current Role](#-current-role)
 - [Technical Expertise](#️-technical-expertise)
-- [Technologies](#-technologies)
 - [Current Focus](#-current-focus)
 - [About Me](#-about-me)
 
@@ -36,32 +35,6 @@ My work connects wet-lab discovery and in-silico analysis to accelerate innovati
 | **🧠 Workflow & Reproducibility** | Pipeline design, environment management, version control, and automation | ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![Conda](https://img.shields.io/badge/Conda-44A833?logo=anaconda&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white) Galaxy · GitDesktop · ETL Pipelines |
 | **📊 Data Visualization** | Graphical analysis and reproducible report generation | ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white) ![ggplot2](https://img.shields.io/badge/ggplot2-1E88E5?logo=rstudio&logoColor=white) ![RMarkdown](https://img.shields.io/badge/R_Markdown-6A1B9A) ![Vercel](https://img.shields.io/badge/Vercel_v0-000000?logo=vercel&logoColor=white) R Markdown · Interactive Dashboards |
 | **🔬 Enzyme Variant Analysis** | Structure analysis, loop identification, secondary structure characterization, B-factor analysis, MSA analysis | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![BioPython](https://img.shields.io/badge/BioPython-3776AB?logo=python&logoColor=white) ![PDB](https://img.shields.io/badge/PDB-1E88E5) PDB parsing · Loop detection · Helix/sheet analysis · B-factor analysis · MSA analysis |
-
----
-
-## 🛠️ Technologies
-
-**Languages & Frameworks:**
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
-
-**Bioinformatics Tools:**
-![BLAST](https://img.shields.io/badge/BLAST-4A90E2)
-![Galaxy](https://img.shields.io/badge/Galaxy-1A237E?logo=galaxyproject&logoColor=white)
-![Ensembl](https://img.shields.io/badge/Ensembl_Plants-673AB7)
-![BioPython](https://img.shields.io/badge/BioPython-3776AB?logo=python&logoColor=white)
-
-**Data Analysis & Visualization:**
-![RStudio](https://img.shields.io/badge/RStudio-75AADB?logo=rstudio&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)
-![ggplot2](https://img.shields.io/badge/ggplot2-1E88E5?logo=rstudio&logoColor=white)
-
-**Workflow & Version Control:**
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Conda](https://img.shields.io/badge/Conda-44A833?logo=anaconda&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ---
 
