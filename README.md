@@ -8,7 +8,6 @@
 - [Technical Expertise](#️-technical-expertise)
 - [Technologies](#-technologies)
 - [Current Focus](#-current-focus)
-- [GitHub Stats](#-github-stats)
 - [About Me](#-about-me)
 
 ---
@@ -76,16 +75,6 @@ My work connects wet-lab discovery and in-silico analysis to accelerate innovati
   → *[Check out enzyme variant analysis tools](https://github.com/vadixon98)*
 - 🧠 **Applying AI-assisted methods** to streamline bioinformatics analysis and improve reproducibility  
   → *[See my latest projects](https://github.com/vadixon98)*
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vadixon98&show_icons=true&theme=default&hide_border=true&bg_color=fff&title_color=2E7D32&icon_color=2E7D32)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vadixon98&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=2E7D32)
-
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=vadixon98&theme=default&hide_border=true&background=fff&ring=2E7D32&fire=2E7D32&currStreakLabel=2E7D32)
 
 ---
 
