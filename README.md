@@ -29,19 +29,6 @@ My work connects wet-lab discovery and in-silico analysis to accelerate innovati
 
 ---
 
-## 🌱 Current Focus
-
-- 🧩 **Integrating R and Python workflows** for end-to-end genome and transcriptome analysis  
-  → *[Explore my bioinformatics pipelines](https://github.com/vadixon98)*
-- 🌾 **Building reproducible pipelines** for agricultural and environmental genomics  
-  → *[View AOS phylogeny analysis](https://github.com/vadixon98)*
-- 🤖 **Expanding automation and visualization tools** for scalable, data-driven research  
-  → *[Check out enzyme variant analysis tools](https://github.com/vadixon98)*
-- 🧠 **Applying AI-assisted methods** to streamline bioinformatics analysis and improve reproducibility  
-  → *[See my latest projects](https://github.com/vadixon98)*
-
----
-
 ## 💡 About Me
 
 Outside of coding and lab work, I enjoy rock climbing, yoga, and reading. I’m passionate about connecting bioinformatics with plant systems biology to drive sustainable agricultural biotechnology.
