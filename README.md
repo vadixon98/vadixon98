@@ -7,8 +7,11 @@
 **Trait Sciences, Terrana Biosciences**  
 *December 2025 – Present*
 
-I bridge molecular biology and bioinformatics, combining hands-on lab experience with R/Python-based data analysis and reproducible computational workflows. 
-My work connects wet-lab discovery and in-silico analysis to accelerate innovation in plant science, genomics, and sustainable AgBiotech.
+- Focusing on sequence optimization within RNA viroids
+- Developing and analyzing in vivo and in vitro trait bioassays
+- Integrating computational genomics and synthetic biology to advance trait science
+
+I bridge molecular biology and bioinformatics, combining hands-on lab experience with R/Python-based data analysis and reproducible computational workflows to accelerate innovation in plant science, genomics, and sustainable AgBiotech.
 
 ---
 
@@ -27,10 +30,9 @@ My work connects wet-lab discovery and in-silico analysis to accelerate innovati
 
 ## 💡 About Me
 
-Outside of coding and lab work, I enjoy rock climbing, yoga, and reading. I’m passionate about connecting bioinformatics with plant systems biology to drive sustainable agricultural biotechnology.
+Passionate about connecting bioinformatics with plant systems biology to drive sustainable agricultural biotechnology. Outside of coding and lab work, I enjoy rock climbing, yoga, and reading.
 
-📫 **Email:** [ashleighdixon1998@gmail.com](mailto:ashleighdixon1998@gmail.com)  
-🌐 **GitHub:** [github.com/vadixon98](https://github.com/vadixon98)  
-💼 **LinkedIn:** [linkedin.com/in/VaDixon](https://www.linkedin.com/in/VaDixon)
+**Connect with me:**  
+📫 [ashleighdixon1998@gmail.com](mailto:ashleighdixon1998@gmail.com) · 🌐 [GitHub](https://github.com/vadixon98) · 💼 [LinkedIn](https://www.linkedin.com/in/VaDixon)
 
 ---
