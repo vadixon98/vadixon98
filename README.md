@@ -7,9 +7,6 @@
 **Trait Sciences, Terrana Biosciences**  
 *December 2025 – Present*
 
-- Focusing on sequence optimization within RNA viroids
-- Developing and analyzing in vivo and in vitro trait bioassays
-
 I bridge molecular biology and bioinformatics, combining hands-on lab experience with R/Python-based data analysis and reproducible computational workflows to accelerate innovation in plant science, genomics, and sustainable agricultural biotechnology.
 
 ---
