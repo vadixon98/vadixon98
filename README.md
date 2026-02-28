@@ -27,7 +27,7 @@ I bridge molecular biology and bioinformatics, integrating hands-on laboratory e
 ## Education
 
 **University of Wisconsin–Madison**, Madison, WI  
-Graduate Capstone Program · *December 2025*
+Graduate Capstone Program in Bioinformatics · *December 2025*
 
 **North Carolina State University**, Raleigh, NC  
 B.S. in Plant Biology, Concentration in Ethnobotany · *May 2019*
