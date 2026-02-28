@@ -7,7 +7,11 @@
 **Trait Sciences division, Terrana Biosciences**  
 *December 2025 – Present*
 
-I bridge molecular biology and bioinformatics, integrating hands-on laboratory experience with R/Python-based data analysis and reproducible computational workflows to advance innovation in plant science, genomics, and sustainable agricultural biotechnology.
+I bridge molecular biology and bioinformatics, integrating hands-on laboratory experience with R/Python-based data analysis and reproducible computational workflows to advance innovation in plant science, genomics, and sustainable agricultural biotechnology. My work spans three core platform areas:
+
+- **Prevent™** — Synthetic circular RNA, plant vaccines, and RNAi-based crop protection strategies
+- **Protect™** — Commensal satellite RNA, antibacterials, antifungals, small peptides, and nanobodies
+- **Improve™** — Synthetic latent RNA, trait and tool delivery, yield/agronomic traits, and editing tools
 
 ---
 
