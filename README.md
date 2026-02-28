@@ -66,6 +66,6 @@ B.S. in Plant Biology, Concentration in Ethnobotany · *May 2019*
 My work sits at the intersection of plant systems biology and computational genomics, with a focus on translating biological data into actionable insights for sustainable agricultural biotechnology. Outside of research, I spend time rock climbing, practicing yoga, and reading.
 
 **Contact:**  
-[ashleighdixon1998@gmail.com](mailto:ashleighdixon1998@gmail.com) · [GitHub](https://github.com/vadixon98) · [LinkedIn](https://www.linkedin.com/in/VaDixon)
+[GitHub](https://github.com/vadixon98) · [LinkedIn](https://www.linkedin.com/in/VaDixon)
 
 ---
