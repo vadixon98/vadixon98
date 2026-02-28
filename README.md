@@ -24,6 +24,16 @@ I bridge molecular biology and bioinformatics, integrating hands-on laboratory e
 
 ---
 
+## Education
+
+**University of Wisconsin–Madison**, Madison, WI  
+Graduate Capstone Program · *December 2025*
+
+**North Carolina State University**, Raleigh, NC  
+B.S. in Plant Biology, Concentration in Ethnobotany · *May 2019*
+
+---
+
 ## About
 
 My work sits at the intersection of plant systems biology and computational genomics, with a focus on translating biological data into actionable insights for sustainable agricultural biotechnology. Outside of research, I spend time rock climbing, practicing yoga, and reading.
