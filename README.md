@@ -35,6 +35,22 @@ I bridge molecular biology and bioinformatics, integrating hands-on laboratory e
 
 ---
 
+## Featured Project
+
+### [Enzyme Variant Analysis](https://github.com/vadixon98/enzyme-variant-analysis)
+
+Structural and sequence-based investigation of protein enzymes using a hybrid R/Python workflow via `reticulate`.
+
+| Script | Analysis |
+|:-------|:---------|
+| Loop Identification & B-Factors | Identifies unstructured regions and quantifies per-loop flexibility metrics from PDB files |
+| Helix & Sheet Distance Calculations | Computes Cα-to-Cα Euclidean distances across secondary structure elements |
+| Amino Acid Usage by Position & Genus | Characterizes conservation and variation patterns across taxonomic groups from a Clustal MSA |
+
+**Stack:** R · Python · BioPython · pandas · numpy · reticulate · PDB
+
+---
+
 ## Education
 
 **University of Wisconsin–Madison**, Madison, WI  
