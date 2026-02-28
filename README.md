@@ -4,7 +4,7 @@
 
 ## Current Role
 
-**Trait Sciences, Terrana Biosciences**  
+**Trait Sciences division, Terrana Biosciences**  
 *December 2025 – Present*
 
 I bridge molecular biology and bioinformatics, integrating hands-on laboratory experience with R/Python-based data analysis and reproducible computational workflows to advance innovation in plant science, genomics, and sustainable agricultural biotechnology.
