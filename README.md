@@ -33,6 +33,15 @@ I bridge molecular biology and bioinformatics, integrating hands-on laboratory e
 | **Transcriptomics & RNA-Seq** | Read quality control, alignment, quantification, and differential expression analysis | ![Galaxy](https://img.shields.io/badge/Galaxy-1A237E?logo=galaxyproject&logoColor=white&style=flat) ![FastQC](https://img.shields.io/badge/FastQC-00BCD4?style=flat&logoColor=white) ![RNA_STAR](https://img.shields.io/badge/RNA_STAR-FFC107?style=flat&logoColor=white) ![DESeq2](https://img.shields.io/badge/DESeq2-1E88E5?style=flat&logoColor=white) ![MultiQC](https://img.shields.io/badge/MultiQC-FF6B6B?style=flat&logoColor=white) Ensembl Annotation · Heatmap Visualization |
 | **Enzyme Variant Analysis** | Structure analysis, loop identification, secondary structure characterization, B-factor analysis, MSA analysis | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat) ![BioPython](https://img.shields.io/badge/BioPython-3776AB?logo=python&logoColor=white&style=flat) ![PDB](https://img.shields.io/badge/PDB-1E88E5?style=flat&logoColor=white) PDB parsing · Loop detection · Helix/sheet analysis · B-factor analysis · MSA analysis |
 
+### Laboratory & Plant Systems
+
+| **Category** | **Core Skills** | **Systems & Applications** |
+|:-------------|:----------------|:---------------------------|
+| **Molecular Biology** | PCR, bacterial transformation, gel electrophoresis, Western blots, DNA/RNA extraction, BSL-1 & 2 | Standard molecular workflows · Aseptic technique |
+| **Plant Cell Culture & Transformation** | Multispecies protoplast isolation & transfection; tissue/cell culture; suspension cell lines; stable line establishment; embryo rescue; Agrobacterium-mediated transformation; tobacco infiltration | Arabidopsis · Tomato · Agrobacterium · Nicotiana benthamiana |
+| **Assays & Imaging** | Dual-luciferase reporter (HTS), cell viability assays, confocal and fluorescence microscopy | High-throughput screening · Live-cell imaging |
+| **Construct Design** | Plasmid and binary vector design for plant and insect cell expression | Arabidopsis · Tomato · Agrobacterium · SF9 |
+
 ---
 
 ## Featured Project
