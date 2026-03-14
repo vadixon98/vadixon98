@@ -35,12 +35,12 @@ I bridge molecular biology and bioinformatics, integrating lab experience with R
 
 ### Laboratory & Plant Systems
 
-| **Category** | **Core Skills** | **Systems & Applications** |
-|:-------------|:----------------|:---------------------------|
-| **Molecular Biology** | PCR, bacterial transformation, gel electrophoresis, Western blots, DNA/RNA extraction, BSL-1 & 2 | Standard molecular workflows · Aseptic technique |
-| **Plant Cell Culture & Transformation** | Protoplast isolation & transfection; tissue/suspension culture; stable lines; embryo rescue; Agrobacterium transformation; tobacco infiltration | Arabidopsis · Tomato · Agrobacterium · N. benthamiana |
-| **Assays & Imaging** | Dual-luciferase (HTS), viability assays, confocal/fluorescence microscopy | HTS · Live-cell imaging |
-| **Construct Design** | Plasmid and binary vector design for plant and insect expression | Arabidopsis · Tomato · Agrobacterium · SF9 |
+| **Category** | **Core Skills** | **Tools & Platforms** |
+|:-------------|:----------------|:----------------------|
+| **Molecular Biology** | PCR, bacterial transformation, gel electrophoresis, Western blots, DNA/RNA extraction, BSL-1 & 2 | ![PCR](https://img.shields.io/badge/PCR-009688?style=flat&logoColor=white) ![Western_Blot](https://img.shields.io/badge/Western_Blot-4CAF50?style=flat&logoColor=white) ![Gel_Electrophoresis](https://img.shields.io/badge/Gel_Electrophoresis-8BC34A?style=flat&logoColor=white) ![BSL-1](https://img.shields.io/badge/BSL--1-795548?style=flat&logoColor=white) ![BSL-2](https://img.shields.io/badge/BSL--2-795548?style=flat&logoColor=white) DNA/RNA extraction · Aseptic technique |
+| **Plant Cell Culture & Transformation** | Protoplast isolation & transfection; tissue/suspension culture; stable lines; embryo rescue; Agrobacterium transformation; tobacco infiltration | ![Agrobacterium](https://img.shields.io/badge/Agrobacterium-4CAF50?style=flat&logoColor=white) ![Arabidopsis](https://img.shields.io/badge/Arabidopsis-8BC34A?style=flat&logoColor=white) ![Protoplast](https://img.shields.io/badge/Protoplast-009688?style=flat&logoColor=white) Tissue culture · Tobacco · N. benthamiana |
+| **Assays & Imaging** | Dual-luciferase (HTS), viability assays, confocal/fluorescence microscopy | ![Dual-Luciferase](https://img.shields.io/badge/Dual--Luciferase-FF9800?style=flat&logoColor=white) ![Confocal](https://img.shields.io/badge/Confocal-9C27B0?style=flat&logoColor=white) HTS · Live-cell imaging |
+| **Construct Design** | Plasmid and binary vector design for plant and insect expression | ![Plasmid](https://img.shields.io/badge/Plasmid-2196F3?style=flat&logoColor=white) ![Binary_Vector](https://img.shields.io/badge/Binary_Vector-2196F3?style=flat&logoColor=white) Arabidopsis · Tomato · Agrobacterium · SF9 |
 
 ---
 
